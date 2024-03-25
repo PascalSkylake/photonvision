@@ -35,7 +35,7 @@ ext {
     mrcalVersion = "dev-v2024.0.0-18-gb903a09";
 
 
-    pubVersion = "v2024.3.1"
+    pubVersion = versionString
     isDev = pubVersion.startsWith("dev")
 
     // A list, for legacy reasons, with only the current platform contained
